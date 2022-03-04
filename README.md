@@ -1,6 +1,9 @@
 ## Storebot
 
 Usage:
+ * `/addbadges <user> <badges>` - adds `badges` for `user`
+ * `/setbadges <user> <badges>` - sets `badges` for `user` (overwrites all badges)
+ * `/badges <user>` - shows badges for the user
  * `/store <key> <value>` - stores `value` under `key` for the user who runs the command
  * `/retrieve <user> <key>` - prints the stored value by `user` for `key`
  * `/usage` - print usages statistics
