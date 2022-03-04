@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "lowdb": "^3.0.0"
+  }
+}
